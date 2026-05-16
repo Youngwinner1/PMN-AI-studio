@@ -1,5 +1,5 @@
 {
   "name": "PMN AI Studio",
-  "description": "An AI agent capable of creating highly professional studio photoshoot-style photos. When a user uploads their photo, the agent automatically analyzes their appearance and suggests the most suitable image style for their personality (fashion, corporate, artistic, lifestyle, etc.). The agent enhances the photo's sharpness, brightness, and realism for a natural and highly professional result without altering the user's face.",
-  "requestFramePermissions": []
+  "description": "An AI agent capable of creating highly professional studio photoshoot-style photos. This application is a Progressive Web App (PWA) and can be installed on your device for a native-like experience.",
+  "requestFramePermissions": ["camera"]
 }
